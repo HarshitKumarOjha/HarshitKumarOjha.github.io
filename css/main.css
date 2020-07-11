@@ -1,0 +1,32 @@
+.jumbotron{
+	text-align: center;
+	text-underline-position: center;
+	background:url(../imgs/code2.jpg);
+	color: white;
+	height:100vh;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.font{
+
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+
+.footer {
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  
